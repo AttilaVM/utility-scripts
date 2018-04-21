@@ -2,7 +2,7 @@
 
 inputDir="$1"
 outputFile="$2"
-tileNum="$3"
+tile="$3"
 
 imgFiles=$(find "$inputDir" -iname "*.png" \
 							 | sort \
