@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 if [ ! -r ".b4w_project" ];then
 		echo "No b4w_project file in working directory"
