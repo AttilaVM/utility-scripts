@@ -15,3 +15,7 @@ buildIgnoreContent=$(cat ../.buildignore \
 for globExpr in ${buildIgnoreContent}; do
     rm -vrf "$globExpr"
 done
+
+cd ..
+
+python3 project.py deploy
