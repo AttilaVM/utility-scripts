@@ -18,4 +18,4 @@ done
 
 cd ..
 
-python3 project.py deploy
+python3 project.py deploy --override
