@@ -1,1 +1,7 @@
 * utility scripts
+
+These scripts are specific to my workflow, however they may prove to be useful for others.
+
+** Scripts
+*** b4w-build.sh 
+Blend4Web SDK build and deploy script.
